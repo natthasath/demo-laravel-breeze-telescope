@@ -1,6 +1,6 @@
 # 🎉 DEMO Laravel Breeze Telescope
 
-Laravel Breeze is a lightweight, minimalistic starter kit for Laravel, providing pre-built authentication scaffolding, views, and controllers to help developers quickly set up user registration, login, and password reset functionality in their Laravel applications.
+Laravel Telescope is a powerful debugging and monitoring tool for Laravel applications, providing insights into requests, exceptions, logs, queries, jobs, and more, allowing developers to easily track, debug, and optimize their application's performance.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
